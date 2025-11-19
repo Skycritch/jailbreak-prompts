@@ -1,2 +1,2 @@
 # jailbreak-prompts
-Jailbreak prompts
+Jailbreak prompts for CTFs.
